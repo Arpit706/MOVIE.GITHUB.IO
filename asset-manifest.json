@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MOVIE.github.io/static/css/main.dc74693d.css",
+    "main.js": "/MOVIE.github.io/static/js/main.d2cee890.js",
+    "index.html": "/MOVIE.github.io/index.html",
+    "main.dc74693d.css.map": "/MOVIE.github.io/static/css/main.dc74693d.css.map",
+    "main.d2cee890.js.map": "/MOVIE.github.io/static/js/main.d2cee890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc74693d.css",
+    "static/js/main.d2cee890.js"
+  ]
+}
